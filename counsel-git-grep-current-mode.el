@@ -22,7 +22,7 @@
 
 ;;; Commentary:
 
-;; Like `counsel-git-grep', but limit to current file extension."
+;; Like `counsel-git-grep', but limit search to current file extension."
 
 ;;; Code:
 
