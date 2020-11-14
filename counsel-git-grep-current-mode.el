@@ -26,6 +26,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (defun counsel-git-grep-current-mode ()
   "Like `counsel-git-grep', but limit to current file extension."
   (interactive)
